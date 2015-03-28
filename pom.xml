@@ -7,6 +7,15 @@
     <artifactId>persiancalendar</artifactId>
     <version>2.1.0</version>
     <packaging>jar</packaging>
+    <name>PersianCalendar</name>
+
+    <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <maven.compiler.source>1.8</maven.compiler.source>
+        <maven.compiler.target>1.8</maven.compiler.target>
+        <!--<maven.compiler.executable>${env.OPENSHIFT_WILDFLY_DIR}usr/lib/jvm/jdk1.8.0_05/bin/javac</maven.compiler.executable>-->
+        <maven.compiler.fork>true</maven.compiler.fork>
+    </properties>
 
     <parent>
         <groupId>org.sonatype.oss</groupId>
