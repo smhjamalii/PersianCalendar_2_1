@@ -1,7 +1,7 @@
 /*
 	PersianDateFormat.java
 	2005-01-11 23:08:03
-	Copyright © Ghasem Kiani <ghasemkiani@yahoo.com>
+	Copyright C Ghasem Kiani <ghasemkiani@yahoo.com>
 	
 	This program is free software; you can redistribute it and/or modify
 	it under the terms of the GNU General Public License as published by

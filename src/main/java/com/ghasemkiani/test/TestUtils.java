@@ -1,7 +1,7 @@
 /*
 	TestUtils.java
 	2005-03-18 12:38:12
-	Copyright © Ghasem Kiani <ghasemkiani@yahoo.com>
+	Copyright C Ghasem Kiani <ghasemkiani@yahoo.com>
 	
 	This program is free software; you can redistribute it and/or modify
 	it under the terms of the GNU General Public License as published by

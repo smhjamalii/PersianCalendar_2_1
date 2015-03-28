@@ -1,7 +1,7 @@
 /*
 	JPanelPersianGregorianDateConverter.java
 	2003-09-24 21:35:54
-	Copyright © Ghasem Kiani <ghasemkiani@yahoo.com>
+	Copyright C Ghasem Kiani <ghasemkiani@yahoo.com>
 	
 	This program is free software; you can redistribute it and/or modify
 	it under the terms of the GNU General Public License as published by
@@ -206,6 +206,6 @@ public class JPanelPersianGregorianDateConverter extends JPanel
 	private void setPersianText(SimplePersianCalendar c)
 	{
 		DateFields t = c.getDateFields();
-		jTextFieldPersianText.setText(c.getPersianWeekDayName(c.get(SimplePersianCalendar.DAY_OF_WEEK)) + "¡ " + t.getDay() + " " + c.getPersianMonthName(t.getMonth()) + " " + t.getYear());
+		jTextFieldPersianText.setText(c.getPersianWeekDayName(c.get(SimplePersianCalendar.DAY_OF_WEEK)) + "i " + t.getDay() + " " + c.getPersianMonthName(t.getMonth()) + " " + t.getYear());
 	}
 }

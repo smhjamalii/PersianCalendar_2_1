@@ -1,7 +1,7 @@
 /*
 	DateFields.java
 	2003-09-24 21:31:46
-	Copyright © Ghasem Kiani <ghasemkiani@yahoo.com>
+	Copyright C Ghasem Kiani <ghasemkiani@yahoo.com>
 	
 	This program is free software; you can redistribute it and/or modify
 	it under the terms of the GNU General Public License as published by

@@ -1,7 +1,7 @@
 /*
 	TestSimplePersianCalendar.java
 	2005-02-21 10:56:57
-	Copyright © Ghasem Kiani <ghasemkiani@yahoo.com>
+	Copyright C Ghasem Kiani <ghasemkiani@yahoo.com>
 	
 	This program is free software; you can redistribute it and/or modify
 	it under the terms of the GNU General Public License as published by
