@@ -8,10 +8,11 @@
     <version>2.1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
     <name>PersianCalendar</name>
+    <description>Persian Calendar is an implementation of the Iranian (Jalali) calendar based on the ICU4J calendar framework.</description>
+    <url>https://github.com/smhjamali/PersianCalendar_2_1</url>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <!--<maven.compiler.executable>${env.OPENSHIFT_WILDFLY_DIR}usr/lib/jvm/jdk1.8.0_05/bin/javac</maven.compiler.executable>-->
         <maven.compiler.fork>true</maven.compiler.fork>
     </properties>
 
@@ -45,5 +46,27 @@
             </plugins>
         </pluginManagement>
     </build>
+
+    <developers>
+        <developer>
+            <name>Ghasem Kiani</name>
+            <email>ghasemkiani@gmail.com</email>
+            <organization>Ghasemkiani.ir</organization>
+            <organizationUrl>http://www.Ghasemkiani.ir</organizationUrl>
+        </developer>
+    </developers>
+
+    <scm>
+        <connection>scm:git:git@github.com:smhjamali/PersianCalendar_2_1.git</connection>
+        <developerConnection>scm:git:git@github.com:smhjamali/PersianCalendar_2_1.git</developerConnection>
+        <url>git@github.com:smhjamali/PersianCalendar_2_1.git</url>
+    </scm>
+
+    <licenses>
+        <license>
+            <name>GNU General Public License, Version 2.0</name>
+            <url>https://www.gnu.org/copyleft/gpl.html</url>
+        </license>
+    </licenses>
 
 </project>
