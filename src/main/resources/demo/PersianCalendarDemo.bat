@@ -1,1 +1,0 @@
-java -classpath ../lib/icu4j_3_2_calendar.jar;../lib/persiancalendar.jar;demo.jar com.ghasemkiani.app.demo.PersianCalendarDemo
