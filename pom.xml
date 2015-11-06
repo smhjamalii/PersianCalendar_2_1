@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>ir.ghasemkiani</groupId>
     <artifactId>persiancalendar</artifactId>
-    <version>2.1.6-SNAPSHOT</version>
+    <version>2.1.7</version>
     <packaging>jar</packaging>
     <name>PersianCalendar</name>
     <description>Persian Calendar is an implementation of the Iranian (Jalali) calendar based on the ICU4J calendar framework.</description>
@@ -93,7 +93,7 @@
         <connection>scm:git:git@github.com:smhjamali/PersianCalendar_2_1.git</connection>
         <developerConnection>scm:git:git@github.com:smhjamali/PersianCalendar_2_1.git</developerConnection>
         <url>git@github.com:smhjamali/PersianCalendar_2_1.git</url>
-      <tag>HEAD</tag>
+      <tag>persiancalendar-2.1.7</tag>
   </scm>
 
     <licenses>
